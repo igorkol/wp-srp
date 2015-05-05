@@ -1,0 +1,2795 @@
+# Translation of Development in Serbian
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-05-03 21:52+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.6\n"
+"Project-Id-Version: Development\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr\n"
+
+msgctxt "select_from_new_picker"
+msgid "Multi-select with the new picker"
+msgstr "Изаберите више опција помоћу новог изборника"
+
+msgctxt "stats_generic_error"
+msgid "Required Stats couldn't be loaded"
+msgstr "Тражени подаци се не могу учитати"
+
+msgctxt "no_device_videos"
+msgid "No videos"
+msgstr "Нема видео снимака"
+
+msgctxt "no_blog_images"
+msgid "No images"
+msgstr "Нема слика"
+
+msgctxt "no_blog_videos"
+msgid "No videos"
+msgstr "Нема видео снимака"
+
+msgctxt "no_device_images"
+msgid "No images"
+msgstr "Нема слика"
+
+msgctxt "error_loading_blog_images"
+msgid "Unable to fetch images"
+msgstr "Није могуће добавити слике"
+
+msgctxt "error_loading_blog_videos"
+msgid "Unable to fetch videos"
+msgstr "Није могуће добавити слике"
+
+msgctxt "error_loading_images"
+msgid "Error loading images"
+msgstr "Грешка приликом учитавања слика"
+
+msgctxt "error_loading_videos"
+msgid "Error loading videos"
+msgstr "Грешка приликом учитавања видеа"
+
+msgctxt "loading_blog_images"
+msgid "Fetching images"
+msgstr "Добављам слике"
+
+msgctxt "loading_blog_videos"
+msgid "Fetching videos"
+msgstr "Добављам видео снимке"
+
+msgctxt "no_media_sources"
+msgid "Couldn't fetch media"
+msgstr "Није могуће добавити датотеку садржаја"
+
+msgctxt "loading_videos"
+msgid "Loading videos"
+msgstr "Учитавам слике"
+
+msgctxt "loading_images"
+msgid "Loading images"
+msgstr "Учитавам видео снимке"
+
+msgctxt "no_media"
+msgid "No media"
+msgstr "Не постоји датотека садржаја"
+
+msgctxt "device"
+msgid "Device"
+msgstr "Уређај"
+
+msgctxt "language"
+msgid "Language"
+msgstr "Језик"
+
+msgctxt "add_to_post"
+msgid "Add to Post"
+msgstr "Додајте у чланак"
+
+msgctxt "media_picker_title"
+msgid "Select media"
+msgstr "Изабери датотеку садржаја"
+
+msgctxt "take_photo"
+msgid "Take a photo"
+msgstr "Направи фотографију"
+
+msgctxt "take_video"
+msgid "Take a video"
+msgstr "Направи видео снимак"
+
+msgctxt "tab_title_device_images"
+msgid "Device Images"
+msgstr "Слике на уређају"
+
+msgctxt "tab_title_device_videos"
+msgid "Device Videos"
+msgstr "Видео снимци на уређају"
+
+msgctxt "tab_title_site_images"
+msgid "Site Images"
+msgstr "Слике са веб места"
+
+msgctxt "tab_title_site_videos"
+msgid "Site Videos"
+msgstr "Видео снимци са веб места"
+
+msgctxt "media_details_added_on"
+msgid "Added on:"
+msgstr "Додато:"
+
+msgctxt "media_details_uploaded_on"
+msgid "Uploaded on:"
+msgstr "Отпремљено:"
+
+msgctxt "media_details_file_name"
+msgid "File name:"
+msgstr "Име датотеке:"
+
+msgctxt "media_details_file_type"
+msgid "File type:"
+msgstr "Врста датотеке:"
+
+msgctxt "media_details_file_url"
+msgid "File URL:"
+msgstr "URL датотеке:"
+
+msgctxt "media_details_dimensions"
+msgid "Dimensions:"
+msgstr "Димензије:"
+
+msgctxt "delete_from_collection"
+msgid "Remove media"
+msgstr "Уклони датотеку садржаја"
+
+msgctxt "error_publish_no_network"
+msgid "Can't publish while there is no connection. Saved as draft."
+msgstr "Није могуће објавити услед недостатка интернет конекције. Сачувано као нацрт."
+
+msgctxt "editor_toast_gallery_pending_formatted"
+msgid "Gallery creation pending %d uploads"
+msgstr "Креирање галерије чека отпрему %d датотека"
+
+msgctxt "editor_toast_gallery_created_formatted"
+msgid "Gallery created with %d items"
+msgstr "Креирана галерија са %d датотека"
+
+msgctxt "editor_toast_invalid_path"
+msgid "Invalid file path"
+msgstr "Неисправна путања до датотеке"
+
+msgctxt "verification_code"
+msgid "Verification code"
+msgstr "Верификациони код"
+
+msgctxt "invalid_verification_code"
+msgid "Invalid verification code"
+msgstr "Погрешан верификациони код"
+
+msgctxt "verify"
+msgid "Verify"
+msgstr "Провери"
+
+msgctxt "two_step_footer_label"
+msgid "Enter the code from your authenticator app."
+msgstr "Унесите код са Вашег програма за аутентикацију."
+
+msgctxt "two_step_footer_button"
+msgid "Send code via text message"
+msgstr "Пошаљите код путем текстуалне поруке"
+
+msgctxt "two_step_sms_sent"
+msgid "Check your text messages for the verification code."
+msgstr "Потражите верификациони код међу Вашим текстуалним порукама."
+
+msgctxt "sign_in_jetpack"
+msgid "Sign in to your WordPress.com account to connect to Jetpack."
+msgstr "Пријавите се на свој Wordpress.com налог да бисте се повезали на Jetpack."
+
+msgctxt "auth_required"
+msgid "Sign in again to continue."
+msgstr "Пријавите се поново како бисте наставили са радом."
+
+msgctxt "reader_empty_posts_request_failed"
+msgid "Unable to retrieve posts"
+msgstr "Није могуће учитати чланке"
+
+msgctxt "publisher"
+msgid "Publisher:"
+msgstr "Објављивач:"
+
+msgctxt "error_notification_open"
+msgid "Could not open notification"
+msgstr "Није могуће отворити обавештење"
+
+msgctxt "stats_followers_total_email_paged"
+msgid "Showing %1$d - %2$d of %3$s Email Followers"
+msgstr "Приказано %1$d - %2$d од %3$s пратилаца преко е-поште"
+
+msgctxt "stats_search_terms_unknown_search_terms"
+msgid "Unknown Search Terms"
+msgstr "Непознати термини за претрагу"
+
+msgctxt "stats_followers_total_wpcom_paged"
+msgid "Showing %1$d - %2$d of %3$s WordPress.com Followers"
+msgstr "Приказано %1$d - %2$d од %3$s пратилаца преко Wordpress.com"
+
+msgctxt "stats_empty_search_terms_desc"
+msgid "Learn more about your search traffic by looking at the terms your visitors searched for to find your site."
+msgstr "Сазнајте више о посетама са веб претраживача прегледом термина које су посетиоци користили да пронађу Ваше веб место."
+
+msgctxt "stats_empty_search_terms"
+msgid "No search terms recorded"
+msgstr "Нема забележених термина за претрагу"
+
+msgctxt "stats_entry_search_terms"
+msgid "Search Term"
+msgstr "Термин за претрагу"
+
+msgctxt "stats_view_authors"
+msgid "Authors"
+msgstr "Аутори"
+
+msgctxt "stats_view_search_terms"
+msgid "Search Terms"
+msgstr "Термини за претрагу"
+
+msgctxt "comments_fetching"
+msgid "Fetching comments…"
+msgstr "Добављам коментаре..."
+
+msgctxt "pages_fetching"
+msgid "Fetching pages…"
+msgstr "Добављам странице..."
+
+msgctxt "toast_err_post_uploading"
+msgid "Unable to open post while it's uploading"
+msgstr "Није могуће отворити чланак док се отпремљује"
+
+msgctxt "posts_fetching"
+msgid "Fetching posts…"
+msgstr "Добављам чланке..."
+
+msgctxt "media_fetching"
+msgid "Fetching media…"
+msgstr "Добављам датотеке садржаја..."
+
+msgctxt "post_uploading"
+msgid "Uploading"
+msgstr "Отпремљујем"
+
+msgctxt "stats_total"
+msgid "Total"
+msgstr "Укупно"
+
+msgctxt "stats_overall"
+msgid "Overall"
+msgstr "Просек"
+
+msgctxt "stats_period"
+msgid "Period"
+msgstr "Период"
+
+msgctxt "logs_copied_to_clipboard"
+msgid "Application logs have been copied to the clipboard"
+msgstr "Извештај о променама у апликацији је копиран у оставу"
+
+msgctxt "reader_label_new_posts"
+msgid "New posts"
+msgstr "Нови чланци"
+
+msgctxt "reader_empty_posts_in_blog"
+msgid "This blog is empty"
+msgstr "Овај блог је празан"
+
+msgctxt "stats_average_per_day"
+msgid "Average per Day"
+msgstr "Дневни просек"
+
+msgctxt "stats_recent_weeks"
+msgid "Recent Weeks"
+msgstr "Претходних недеља"
+
+msgctxt "error_copy_to_clipboard"
+msgid "An error occurred while copying text to clipboard"
+msgstr "Дошло је до грешке приликом копирања текста у оставу"
+
+msgctxt "reader_page_recommended_blogs"
+msgid "Blogs you may like"
+msgstr "Блогови који би Вам се могли свидети"
+
+msgctxt "stats_months_and_years"
+msgid "Months and Years"
+msgstr "Месеци и године"
+
+msgctxt "themes_fetching"
+msgid "Fetching themes…"
+msgstr "Добављам теме..."
+
+msgctxt "stats_for"
+msgid "Stats for %s"
+msgstr "Статистике за %s"
+
+msgctxt "stats_other_recent_stats_label"
+msgid "Other Recent Stats"
+msgstr "Друге недавне статистике"
+
+msgctxt "stats_view_all"
+msgid "View all"
+msgstr "Прикажи све"
+
+msgctxt "stats_view"
+msgid "View"
+msgstr "Прикажи"
+
+msgctxt "stats_followers_months"
+msgid "%1$d months"
+msgstr "%1$d месеци"
+
+msgctxt "stats_followers_a_year"
+msgid "A year"
+msgstr "Година"
+
+msgctxt "stats_followers_years"
+msgid "%1$d years"
+msgstr "%1$d година"
+
+msgctxt "stats_followers_a_month"
+msgid "A month"
+msgstr "Месец"
+
+msgctxt "stats_followers_minutes"
+msgid "%1$d minutes"
+msgstr "%1$d минута"
+
+msgctxt "stats_followers_an_hour_ago"
+msgid "an hour ago"
+msgstr "пре сат времена"
+
+msgctxt "stats_followers_hours"
+msgid "%1$d hours"
+msgstr "%1$d сати"
+
+msgctxt "stats_followers_a_day"
+msgid "A day"
+msgstr "Дан"
+
+msgctxt "stats_followers_days"
+msgid "%1$d days"
+msgstr "%1$d дана"
+
+msgctxt "stats_followers_a_minute_ago"
+msgid "a minute ago"
+msgstr "пре минут"
+
+msgctxt "stats_followers_seconds_ago"
+msgid "seconds ago"
+msgstr "пре пар секунди"
+
+msgctxt "stats_followers_total_email"
+msgid "Total Email Followers: %1$s"
+msgstr "Укупан број пратилаца преко е-поште: %1$s"
+
+msgctxt "stats_followers_wpcom_selector"
+msgid "WordPress.com"
+msgstr "Wordpress.com"
+
+msgctxt "stats_followers_email_selector"
+msgid "Email"
+msgstr "Е-пошта"
+
+msgctxt "stats_followers_total_wpcom"
+msgid "Total WordPress.com Followers: %1$s"
+msgstr "Укупан број WordPress.com пратилаца: %1$s"
+
+msgctxt "stats_comments_total_comments_followers"
+msgid "Total comment followers: %1$s"
+msgstr "Укупан број пратилаца коментара: %1$s"
+
+msgctxt "stats_comments_by_authors"
+msgid "By Authors"
+msgstr "По ауторима"
+
+msgctxt "stats_comments_by_posts_and_pages"
+msgid "By Posts & Pages"
+msgstr "По страницама и чланцима"
+
+msgctxt "stats_empty_followers_desc"
+msgid "Keep track of your overall number of followers, and how long each one has been following your site."
+msgstr "Пратите колико у просеку имате пратилаца, као и колико дуго сваки од њих прати Ваше веб место."
+
+msgctxt "stats_empty_followers"
+msgid "No followers"
+msgstr "Без пратилаца"
+
+msgctxt "stats_empty_publicize_desc"
+msgid "Keep track of your followers from various social networking services using publicize."
+msgstr ""
+
+msgctxt "stats_empty_publicize"
+msgid "No publicize followers recorded"
+msgstr ""
+
+msgctxt "stats_empty_video"
+msgid "No videos played"
+msgstr "Нема прегледаних видео снимака"
+
+msgctxt "stats_empty_video_desc"
+msgid "If you've uploaded videos using VideoPress, find out how many times they’ve been watched."
+msgstr ""
+
+msgctxt "stats_empty_comments_desc"
+msgid "If you allow comments on your site, track your top commenters and discover what content sparks the liveliest conversations, based on the most recent 1,000 comments."
+msgstr "Ако сте дозволили коментаре на свом веб месту, пратите посетиоце који остављају највише коментара и сазнајте који садржај подстиче најактивније конверзације, базирано на последњих 1000 коментара."
+
+msgctxt "stats_empty_tags_and_categories_desc"
+msgid "Get an overview of the most popular topics on your site, as reflected in your top posts from the past week."
+msgstr "Прегледајте које су најпопуларније теме на Вашем веб месту према томе који су били најпопуларнији чланци прошле недеље."
+
+msgctxt "stats_empty_search_engine_terms_title"
+msgid "No search terms"
+msgstr "Нема термина претраге"
+
+msgctxt "stats_empty_top_authors_desc"
+msgid "Track the views on each contributor's posts, and zoom in to discover the most popular content by each author."
+msgstr "Пратите прегледе чланака сваког од гостујућих писаца и погледајте детаље како бисте сазнали који је најпопуларнији садржај сваког од аутора."
+
+msgctxt "stats_empty_tags_and_categories"
+msgid "No tagged posts or pages viewed"
+msgstr "Нема прегледа означених чланака или страница"
+
+msgctxt "stats_empty_clicks_desc"
+msgid "When your content includes links to other sites, you’ll see which ones your visitors click on the most."
+msgstr "Када Ваш садржај укључује везе ка другим веб местима, видећете које од њих Ваши посетиоци највише притискају."
+
+msgctxt "stats_empty_referrers_desc"
+msgid "Learn more about your site’s visibility by looking at the websites and search engines that send the most traffic your way"
+msgstr "Сазнајте више о видљивости Вашег веб места пратећи веб претраживаче и друга веб места која Вам шаљу највише посетилаца"
+
+msgctxt "stats_empty_clicks_title"
+msgid "No clicks recorded"
+msgstr "Нема забележених кликова"
+
+msgctxt "stats_empty_referrers_title"
+msgid "No referrers recorded"
+msgstr "Нема забележених извора посетилаца"
+
+msgctxt "stats_empty_top_posts_title"
+msgid "No posts or pages viewed"
+msgstr "Нема прегледаних страница или чланака"
+
+msgctxt "stats_empty_top_posts_desc"
+msgid "Discover what your most-viewed content is, and check how individual posts and pages perform over time."
+msgstr "Сазнајте који Ваш садржај има највише прегледа и проверите учинак појединих чланака и страница."
+
+msgctxt "stats_totals_followers"
+msgid "Since"
+msgstr "Од"
+
+msgctxt "stats_empty_geoviews"
+msgid "No countries recorded"
+msgstr "Нема забележених држава"
+
+msgctxt "stats_empty_geoviews_desc"
+msgid "Explore the list to see which countries and regions generate the most traffic to your site."
+msgstr "Прегледајте листу како бисте сазнали из којих држава и региона долази највише посетилаца на Ваше веб место."
+
+msgctxt "stats_entry_video_plays"
+msgid "Video"
+msgstr "Видео"
+
+msgctxt "stats_entry_top_commenter"
+msgid "Author"
+msgstr "Аутор"
+
+msgctxt "stats_entry_publicize"
+msgid "Service"
+msgstr "Сервис"
+
+msgctxt "stats_entry_followers"
+msgid "Follower"
+msgstr "Пратилац"
+
+msgctxt "stats_totals_publicize"
+msgid "Followers"
+msgstr "Пратиоци"
+
+msgctxt "stats_entry_clicks_link"
+msgid "Link"
+msgstr "Веза"
+
+msgctxt "stats_view_top_posts_and_pages"
+msgid "Posts & Pages"
+msgstr "Чланци и странице"
+
+msgctxt "stats_view_videos"
+msgid "Videos"
+msgstr "Видео снимци"
+
+msgctxt "stats_view_publicize"
+msgid "Publicize"
+msgstr ""
+
+msgctxt "stats_view_followers"
+msgid "Followers"
+msgstr "Пратиоци"
+
+msgctxt "stats_view_countries"
+msgid "Countries"
+msgstr "Државе"
+
+msgctxt "stats_likes"
+msgid "Likes"
+msgstr "Свиђања"
+
+msgctxt "stats_reblogs"
+msgid "Reblogs"
+msgstr ""
+
+msgctxt "stats_comments"
+msgid "Comments"
+msgstr "Коментари"
+
+msgctxt "stats_pagination_label"
+msgid "Page %1$s of %2$s"
+msgstr "Страница %1$s од %2$s"
+
+msgctxt "stats_timeframe_years"
+msgid "Years"
+msgstr "Година"
+
+msgctxt "stats_views"
+msgid "Views"
+msgstr "Прегледа"
+
+msgctxt "stats_visitors"
+msgid "Visitors"
+msgstr "Посетиоци"
+
+msgctxt "stats_follow"
+msgid "Follow"
+msgstr "Прате"
+
+msgctxt "stats_unfollow"
+msgid "Unfollow"
+msgstr "Непрате"
+
+msgctxt "ssl_certificate_details"
+msgid "Details"
+msgstr "Детаљи"
+
+msgctxt "close_drawer"
+msgid "Close menu drawer"
+msgstr "Затвори изборник"
+
+msgctxt "open_drawer"
+msgid "Open menu drawer"
+msgstr "Отвори изборник"
+
+msgctxt "delete_sure_post"
+msgid "Delete this post"
+msgstr "Обриши овај чланак"
+
+msgctxt "delete_sure"
+msgid "Delete this draft"
+msgstr "Обриши овај нацрт"
+
+msgctxt "delete_sure_page"
+msgid "Delete this page"
+msgstr "Обриши ову страницу"
+
+msgctxt "confirm_delete_multi_media"
+msgid "Delete selected items?"
+msgstr "Обрисати изабране ставке?"
+
+msgctxt "confirm_delete_media"
+msgid "Delete selected item?"
+msgstr "Обрисати изабрану ставку?"
+
+msgctxt "cab_selected"
+msgid "%d selected"
+msgstr "%d изабрано"
+
+#. Displaying media from 2014-01-13 to 2014-01-23
+msgctxt "media_gallery_date_range"
+msgid "Displaying media from %1$s to %2$s"
+msgstr "Приказ датотека садржаја од %1$s до %2$s"
+
+msgctxt "sure_to_remove_account"
+msgid "Remove this blog?"
+msgstr "Уклонити овај блог?"
+
+msgctxt "sign_out_confirm"
+msgid "Sign out?"
+msgstr "Одјава?"
+
+msgctxt "reader_empty_followed_blogs_title"
+msgid "You're not following any blogs yet"
+msgstr "Још увек не пратите ни један блог"
+
+msgctxt "reader_empty_posts_liked"
+msgid "You haven't liked any posts"
+msgstr "Нисте означили да Вам се свиђа ниједан чланак"
+
+msgctxt "faq_button"
+msgid "FAQ"
+msgstr "Најчешће постављана питања"
+
+msgctxt "browse_our_faq_button"
+msgid "Browse our FAQ"
+msgstr "Прегледајте најчешће постављана питања"
+
+msgctxt "nux_help_description"
+msgid "Visit the help center to get answers to common questions or visit the forums to ask new ones"
+msgstr "Посетите центар за помоћ како бисте пронашли одговоре на честа питања или посетите форум и поставите питање"
+
+msgctxt "agree_terms_of_service"
+msgid "By creating an account you agree to the fascinating %1$sTerms of Service%2$s"
+msgstr "Прављењем налога прихватате фасцинантне %1$sУслове коришћења Сервиса%2$s"
+
+msgctxt "create_new_blog_wpcom"
+msgid "Create WordPress.com blog"
+msgstr "Направите блог на WordPress.com"
+
+msgctxt "new_blog_wpcom_created"
+msgid "WordPress.com blog created!"
+msgstr "Блог на WordPress.com направљен!"
+
+msgctxt "reader_empty_comments"
+msgid "No comments yet"
+msgstr "Нема коментара"
+
+msgctxt "reader_likes_multi_short"
+msgid "%,d people"
+msgstr "%,d људи"
+
+msgctxt "reader_empty_posts_in_tag"
+msgid "No posts with this tag"
+msgstr "Нема чланака са том ознаком"
+
+msgctxt "reader_label_comment_count_multi"
+msgid "%,d comments"
+msgstr "%,d коментара"
+
+msgctxt "reader_label_view_original"
+msgid "View original article"
+msgstr "Прикажи изворни чланак"
+
+msgctxt "reader_label_like"
+msgid "Like"
+msgstr "Свиђа ми се"
+
+msgctxt "reader_label_liked_by"
+msgid "Liked by"
+msgstr "Свиђа се"
+
+msgctxt "reader_label_liked_by_you"
+msgid "Liked by you"
+msgstr "Свидело Вам се"
+
+msgctxt "reader_likes_one_short"
+msgid "1 person"
+msgstr "1 особа"
+
+msgctxt "reader_label_comment_count_single"
+msgid "One comment"
+msgstr "Један коментар"
+
+msgctxt "reader_label_comments_closed"
+msgid "Comments are closed"
+msgstr "Коментарисање је затворено"
+
+msgctxt "reader_label_comments_on"
+msgid "Comments on"
+msgstr "Коментарисање је отворено"
+
+msgctxt "reader_title_comments"
+msgid "Comments"
+msgstr "Коментари"
+
+msgctxt "reader_title_photo_viewer"
+msgid "%1$d of %2$d"
+msgstr "%1$d од %2$d"
+
+msgctxt "error_publish_empty_post"
+msgid "Can't publish an empty post"
+msgstr "Није могуће објавити празан чланак"
+
+msgctxt "error_refresh_unauthorized_posts"
+msgid "You don't have permission to view or edit posts"
+msgstr "Немате дозволу да прегледате или уређујете чланке"
+
+msgctxt "error_refresh_unauthorized_pages"
+msgid "You don't have permission to view or edit pages"
+msgstr "Немате дозволу да прегледате или уређујете странице"
+
+msgctxt "error_refresh_unauthorized_comments"
+msgid "You don't have permission to view or edit comments"
+msgstr "Немате дозволу да прегледате или уређујете коментаре"
+
+msgctxt "overwrite_local_changes"
+msgid "You've made changes to a post that haven't been uploaded yet. Proceed with the refresh and overwrite local changes?"
+msgstr "Направили сте измене у чланку које још нису отпремљене. Желите ли да наставите са освежењем садржаја и писањем преко локалних измена?"
+
+msgctxt "older_month"
+msgid "Older than a month"
+msgstr "Старије од месец дана"
+
+msgctxt "more"
+msgid "More"
+msgstr "Више"
+
+msgctxt "older_two_days"
+msgid "Older than 2 days"
+msgstr "Старије од два дана"
+
+msgctxt "older_last_week"
+msgid "Older than a week"
+msgstr "Старије од недељу дана"
+
+msgctxt "help_and_support"
+msgid "Help and support"
+msgstr "Помоћ и подршка"
+
+msgctxt "stats_no_blog"
+msgid "Stats couldn't be loaded for the required blog"
+msgstr "Статистике не могу бити учитане за тражени блог"
+
+msgctxt "select_a_blog"
+msgid "Select a WordPress site"
+msgstr "Одаберите Вордпрес веб место"
+
+msgctxt "sending_content"
+msgid "Uploading %s content"
+msgstr "Отпремљивање %s садржаја"
+
+msgctxt "uploading_total"
+msgid "Uploading %1$d of %2$d"
+msgstr "Отпремљивање %1$d од %2$d"
+
+msgctxt "mnu_comment_liked"
+msgid "Liked"
+msgstr "Свиђа се"
+
+msgctxt "comment"
+msgid "Comment"
+msgstr "Коментар"
+
+msgctxt "comment_trashed"
+msgid "Comment trashed"
+msgstr "Коментар померен на отпад"
+
+msgctxt "dlg_confirm_spam_comment"
+msgid "Mark this comment as spam?"
+msgstr "Обележити овај коментар као непожељан?"
+
+msgctxt "comment_mark_spam"
+msgid "Mark spam"
+msgstr "Обележи као непожељан"
+
+msgctxt "posts_empty_list"
+msgid "No posts yet. Why not create one?"
+msgstr "Не постоје чланци. Зашто не бисте направили нови?"
+
+msgctxt "comment_reply_to_user"
+msgid "Reply to %s"
+msgstr "Одговор %s"
+
+msgctxt "pages_empty_list"
+msgid "No pages yet. Why not create one?"
+msgstr "Не постоје странице. Зашто не бисте направили нову?"
+
+msgctxt "media_empty_list_custom_date"
+msgid "No media in this time interval"
+msgstr "Не постоје датотеке садржаја у том временском периоду"
+
+msgctxt "posting_post"
+msgid "Posting \"%s\""
+msgstr "Објављивање \"%s\""
+
+msgctxt "signing_out"
+msgid "Signing out…"
+msgstr "Одјављивање..."
+
+msgctxt "reader_toast_err_generic"
+msgid "Unable to perform this action"
+msgstr "Није могуће обавити ову акцију"
+
+msgctxt "reader_toast_err_block_blog"
+msgid "Unable to block this blog"
+msgstr "Није могуће блокирати овај блог"
+
+msgctxt "reader_toast_blog_blocked"
+msgid "Posts from this blog will no longer be shown"
+msgstr "Чланци са овог блога више неће бити приказивани"
+
+msgctxt "reader_menu_block_blog"
+msgid "Block this blog"
+msgstr "Блокирај овај блог"
+
+msgctxt "contact_us"
+msgid "Contact us"
+msgstr "Контактирајте нас"
+
+msgctxt "contact_us_pref_summary"
+msgid "Get help from Automattic support"
+msgstr "Затражите помоћ од подршке из Аутоматика"
+
+msgctxt "hs__conversation_detail_error"
+msgid "Describe the problem you're seeing"
+msgstr "Опишите проблем који видите"
+
+msgctxt "hs__new_conversation_header"
+msgid "Support chat"
+msgstr "Ћаскање са подршком"
+
+msgctxt "hs__conversation_header"
+msgid "Support chat"
+msgstr "Ћаскање са подршком"
+
+msgctxt "hs__username_blank_error"
+msgid "Enter a valid name"
+msgstr "Унесите исправно име"
+
+msgctxt "hs__invalid_email_error"
+msgid "Enter a valid email address"
+msgstr "Унесите исправну адресу е-поште"
+
+msgctxt "add_location"
+msgid "Add location"
+msgstr "Додајте локацију"
+
+msgctxt "current_location"
+msgid "Current location"
+msgstr "Тренутна локација"
+
+msgctxt "your_signature"
+msgid "Your signature:"
+msgstr "Ваш потпис:"
+
+msgctxt "search_location"
+msgid "Search"
+msgstr "Претрага"
+
+msgctxt "edit_location"
+msgid "Edit"
+msgstr "Уреди"
+
+msgctxt "search_current_location"
+msgid "Locate"
+msgstr "Лоцирај"
+
+msgctxt "preference_privacy"
+msgid "Privacy"
+msgstr "Приватност"
+
+msgctxt "preference_send_usage_stats"
+msgid "Send statistics"
+msgstr "Пошаљи статистике"
+
+msgctxt "preference_send_usage_stats_summary"
+msgid "Automatically send usage statistics to help us improve WordPress for Android"
+msgstr "Аутоматски пошаљи статистике ради унапређења Вордпреса за Андроид"
+
+msgctxt "reader_title_reblog"
+msgid "Reblog Post"
+msgstr "Поново објавите чланак"
+
+msgctxt "reader_hint_reblog_comment"
+msgid "Add your thoughts (optional)"
+msgstr "Додајте своја размишљања"
+
+msgctxt "reader_label_reblog_to"
+msgid "Reblog to"
+msgstr "Поново објавите чланак на"
+
+msgctxt "update_verb"
+msgid "Update"
+msgstr "Ажурирати"
+
+msgctxt "schedule_verb"
+msgid "Schedule"
+msgstr "Заказати"
+
+msgctxt "sign_in_again"
+msgid "Sign in again"
+msgstr "Пријавите се поново"
+
+msgctxt "simperium_connection_error"
+msgid "Couldn't sign in to get notifications."
+msgstr ""
+
+msgctxt "invalid_xmlrpc_url"
+msgid "XMLRPC url returned by your WordPress instance is invalid. Contact your site administrator."
+msgstr ""
+
+msgctxt "reader_title_blog_preview"
+msgid "Preview Blog"
+msgstr "Прегледајте блог"
+
+msgctxt "reader_title_tag_preview"
+msgid "Preview Tag"
+msgstr "Прегледајте ознаку"
+
+msgctxt "reader_title_subs"
+msgid "Tags & Blogs"
+msgstr "Ознаке и блогови"
+
+msgctxt "reader_page_followed_tags"
+msgid "Followed tags"
+msgstr "Ознаке које пратите"
+
+msgctxt "reader_page_popular_tags"
+msgid "Popular tags"
+msgstr "Популарни блогови"
+
+msgctxt "reader_page_followed_blogs"
+msgid "Followed blogs"
+msgstr "Блогови које пратите"
+
+msgctxt "reader_hint_add_tag_or_url"
+msgid "Enter a tag or URL to follow"
+msgstr ""
+
+msgctxt "reader_label_followers"
+msgid "%s followers"
+msgstr "%s пратилаца"
+
+msgctxt "reader_label_followed_blog"
+msgid "Blog followed"
+msgstr ""
+
+msgctxt "reader_label_unfollowed_blog"
+msgid "Blog unfollowed"
+msgstr ""
+
+msgctxt "reader_label_tag_preview"
+msgid "Posts tagged %s"
+msgstr ""
+
+msgctxt "reader_toast_err_get_blog_info"
+msgid "Unable to show this blog"
+msgstr ""
+
+msgctxt "reader_toast_err_already_follow_blog"
+msgid "You already follow this blog"
+msgstr ""
+
+msgctxt "reader_toast_err_follow_blog"
+msgid "Unable to follow this blog"
+msgstr ""
+
+msgctxt "reader_toast_err_unfollow_blog"
+msgid "Unable to unfollow this blog"
+msgstr ""
+
+msgctxt "reader_empty_recommended_blogs"
+msgid "No recommended blogs"
+msgstr ""
+
+msgctxt "blogs_visibility"
+msgid "Blogs"
+msgstr ""
+
+msgctxt "stats_empty_search_engine_terms_desc"
+msgid "Search terms are words or phrases users find you with when they search."
+msgstr ""
+
+msgctxt "load_settings"
+msgid "You can visit settings and change your username and password there."
+msgstr ""
+
+msgctxt "saving"
+msgid "Saving…"
+msgstr ""
+
+msgctxt "media_empty_list"
+msgid "No media"
+msgstr ""
+
+msgctxt "need_help_signin_wpcom"
+msgid "Need help?"
+msgstr ""
+
+msgctxt "wpcom_signin_dialog_title"
+msgid "WordPress.com sign in"
+msgstr ""
+
+msgctxt "jetpack_stats_switch_user"
+msgid "The current WordPress.com account (%s) doesn't have access to the stats for this blog. Would you like to sign in to a different account?"
+msgstr ""
+
+msgctxt "ptr_tip_message"
+msgid "Tip: Pull down to refresh"
+msgstr ""
+
+msgctxt "reader_label_reblog_empty"
+msgid "You have no visible WordPress.com blogs this post can be reblogged to"
+msgstr ""
+
+msgctxt "reader_label_reblog_empty_link"
+msgid "Change blog visibility"
+msgstr ""
+
+msgctxt "help"
+msgid "Help"
+msgstr ""
+
+msgctxt "forgot_password"
+msgid "Lost your password?"
+msgstr ""
+
+msgctxt "forums"
+msgid "Forums"
+msgstr ""
+
+msgctxt "help_center"
+msgid "Help center"
+msgstr ""
+
+msgctxt "ssl_certificate_error"
+msgid "Invalid SSL certificate"
+msgstr ""
+
+msgctxt "ssl_certificate_ask_trust"
+msgid "If you usually connect to this site without problems, this error could mean that someone is trying to impersonate the site, and you shouldn't continue. Would you like to trust the certificate anyway?"
+msgstr ""
+
+msgctxt "out_of_memory"
+msgid "Device out of memory"
+msgstr ""
+
+msgctxt "no_network_message"
+msgid "There is no network available"
+msgstr ""
+
+msgctxt "could_not_remove_account"
+msgid "Couldn't remove blog"
+msgstr ""
+
+msgctxt "gallery_error"
+msgid "The media item couldn't be retrieved"
+msgstr ""
+
+msgctxt "blog_not_found"
+msgid "An error occurred when accessing this blog"
+msgstr ""
+
+msgctxt "wait_until_upload_completes"
+msgid "Wait until upload completes"
+msgstr ""
+
+msgctxt "theme_fetch_failed"
+msgid "Failed to fetch themes"
+msgstr ""
+
+msgctxt "theme_set_failed"
+msgid "Failed to set theme"
+msgstr ""
+
+msgctxt "theme_auth_error_message"
+msgid "Ensure you have the privilege to set themes"
+msgstr ""
+
+msgctxt "theme_no_search_result_found"
+msgid "No results found"
+msgstr ""
+
+msgctxt "comments_empty_list"
+msgid "No comments"
+msgstr ""
+
+msgctxt "mnu_comment_unspam"
+msgid "Not spam"
+msgstr ""
+
+msgctxt "mnu_comment_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "no_site_error"
+msgid "Couldn't connect to the WordPress site"
+msgstr ""
+
+msgctxt "adding_cat_failed"
+msgid "Adding category failed"
+msgstr ""
+
+msgctxt "adding_cat_success"
+msgid "Category added successfully"
+msgstr ""
+
+msgctxt "cat_name_required"
+msgid "The category name field is required"
+msgstr ""
+
+msgctxt "category_automatically_renamed"
+msgid "Category name %1$s isn't valid. It has been renamed to %2$s."
+msgstr ""
+
+msgctxt "no_account"
+msgid "No WordPress account found, add an account and try again"
+msgstr ""
+
+msgctxt "auto_sharing_preference_reset"
+msgid "Auto-sharing settings reset"
+msgstr ""
+
+msgctxt "auto_sharing_preference_reset_caused_by_error"
+msgid "Previously selected blog is no longer visible"
+msgstr ""
+
+msgctxt "sdcard_message"
+msgid "A mounted SD card is required to upload media"
+msgstr ""
+
+msgctxt "stats_empty_comments"
+msgid "No comments yet"
+msgstr ""
+
+msgctxt "stats_bar_graph_empty"
+msgid "No stats available"
+msgstr ""
+
+msgctxt "invalid_url_message"
+msgid "Check that the blog URL entered is valid"
+msgstr ""
+
+msgctxt "reply_failed"
+msgid "Reply failed"
+msgstr ""
+
+msgctxt "notifications_empty_list"
+msgid "No notifications"
+msgstr ""
+
+msgctxt "error_delete_post"
+msgid "An error occurred while deleting the %s"
+msgstr ""
+
+msgctxt "error_refresh_posts"
+msgid "Posts couldn't be refreshed at this time"
+msgstr ""
+
+msgctxt "error_refresh_pages"
+msgid "Pages couldn't be refreshed at this time"
+msgstr ""
+
+msgctxt "error_refresh_notifications"
+msgid "Notifications couldn't be refreshed at this time"
+msgstr ""
+
+msgctxt "error_refresh_comments"
+msgid "Comments couldn't be refreshed at this time"
+msgstr ""
+
+msgctxt "error_refresh_stats"
+msgid "Stats couldn't be refreshed at this time"
+msgstr ""
+
+msgctxt "error_generic"
+msgid "An error occurred"
+msgstr ""
+
+msgctxt "error_parsing_response"
+msgid "An error occurred while fetching data"
+msgstr ""
+
+msgctxt "error_moderate_comment"
+msgid "An error occurred while moderating"
+msgstr ""
+
+msgctxt "error_edit_comment"
+msgid "An error occurred while editing the comment"
+msgstr ""
+
+msgctxt "error_upload"
+msgid "An error occurred while uploading the %s"
+msgstr ""
+
+msgctxt "error_load_comment"
+msgid "Couldn't load the comment"
+msgstr ""
+
+msgctxt "error_downloading_image"
+msgid "Error downloading image"
+msgstr ""
+
+msgctxt "passcode_wrong_passcode"
+msgid "Wrong PIN"
+msgstr ""
+
+msgctxt "invalid_email_message"
+msgid "Your email address isn't valid"
+msgstr ""
+
+msgctxt "invalid_password_message"
+msgid "Password must contain at least 4 characters"
+msgstr ""
+
+msgctxt "invalid_username_too_short"
+msgid "Username must be longer than 4 characters"
+msgstr ""
+
+msgctxt "invalid_username_too_long"
+msgid "Username must be shorter than 61 characters"
+msgstr ""
+
+msgctxt "username_only_lowercase_letters_and_numbers"
+msgid "Username can only contain lowercase letters (a-z) and numbers"
+msgstr ""
+
+msgctxt "username_required"
+msgid "Enter a username"
+msgstr ""
+
+msgctxt "username_not_allowed"
+msgid "Username not allowed"
+msgstr ""
+
+msgctxt "username_must_be_at_least_four_characters"
+msgid "Username must be at least 4 characters"
+msgstr ""
+
+msgctxt "username_contains_invalid_characters"
+msgid "Username may not contain the character “_”"
+msgstr ""
+
+msgctxt "username_must_include_letters"
+msgid "Username must have a least 1 letter (a-z)"
+msgstr ""
+
+msgctxt "email_invalid"
+msgid "Enter a valid email address"
+msgstr ""
+
+msgctxt "email_not_allowed"
+msgid "That email address isn't allowed"
+msgstr ""
+
+msgctxt "username_exists"
+msgid "That username already exists"
+msgstr ""
+
+msgctxt "email_exists"
+msgid "That email address is already being used"
+msgstr ""
+
+msgctxt "username_reserved_but_may_be_available"
+msgid "That username is currently reserved but may be available in a couple of days"
+msgstr ""
+
+msgctxt "blog_name_required"
+msgid "Enter a site address"
+msgstr ""
+
+msgctxt "blog_name_not_allowed"
+msgid "That site address isn't allowed"
+msgstr ""
+
+msgctxt "blog_name_must_be_at_least_four_characters"
+msgid "Site address must be at least 4 characters"
+msgstr ""
+
+msgctxt "blog_name_must_be_less_than_sixty_four_characters"
+msgid "The site address must be shorter than 64 characters"
+msgstr ""
+
+msgctxt "blog_name_contains_invalid_characters"
+msgid "Site address may not contain the character “_”"
+msgstr ""
+
+msgctxt "blog_name_cant_be_used"
+msgid "You may not use that site address"
+msgstr ""
+
+msgctxt "blog_name_only_lowercase_letters_and_numbers"
+msgid "Site address can only contain lowercase letters (a-z) and numbers"
+msgstr ""
+
+msgctxt "blog_name_exists"
+msgid "That site already exists"
+msgstr ""
+
+msgctxt "blog_name_reserved"
+msgid "That site is reserved"
+msgstr ""
+
+msgctxt "blog_name_reserved_but_may_be_available"
+msgid "That site is currently reserved but may be available in a couple days"
+msgstr ""
+
+msgctxt "username_or_password_incorrect"
+msgid "The username or password you entered is incorrect"
+msgstr ""
+
+msgctxt "nux_cannot_log_in"
+msgid "We can't log you in"
+msgstr ""
+
+msgctxt "xmlrpc_error"
+msgid "Couldn't connect. Enter the full path to xmlrpc.php on your site and try again."
+msgstr ""
+
+msgctxt "visit_security_settings"
+msgid "Visit security settings"
+msgstr ""
+
+msgctxt "select_categories"
+msgid "Select categories"
+msgstr ""
+
+msgctxt "account_details"
+msgid "Account details"
+msgstr ""
+
+msgctxt "show_and_hide_blogs"
+msgid "Show/hide WordPress.com blogs"
+msgstr ""
+
+msgctxt "show_all"
+msgid "Show all"
+msgstr ""
+
+msgctxt "hide_all"
+msgid "Hide all"
+msgstr ""
+
+msgctxt "edit_page"
+msgid "Edit page"
+msgstr ""
+
+msgctxt "edit_post"
+msgid "Edit post"
+msgstr ""
+
+msgctxt "add_comment"
+msgid "Add comment"
+msgstr ""
+
+msgctxt "connection_error"
+msgid "Connection error"
+msgstr ""
+
+msgctxt "cancel_edit"
+msgid "Cancel edit"
+msgstr ""
+
+msgctxt "scaled_image_error"
+msgid "Enter a valid scaled width value"
+msgstr ""
+
+msgctxt "post_not_found"
+msgid "An error occurred when loading the post. Refresh your posts and try again."
+msgstr ""
+
+msgctxt "learn_more"
+msgid "Learn more"
+msgstr ""
+
+msgctxt "media_gallery_settings_title"
+msgid "Gallery settings"
+msgstr ""
+
+msgctxt "media_gallery_image_order"
+msgid "Image order"
+msgstr ""
+
+msgctxt "media_gallery_num_columns"
+msgid "Number of columns"
+msgstr ""
+
+msgctxt "media_gallery_type_thumbnail_grid"
+msgid "Thumbnail grid"
+msgstr ""
+
+msgctxt "media_gallery_edit"
+msgid "Edit gallery"
+msgstr ""
+
+msgctxt "media_error_no_permission"
+msgid "You don't have permission to view the media library"
+msgstr ""
+
+msgctxt "cannot_delete_multi_media_items"
+msgid "Some media can't be deleted at this time. Try again later."
+msgstr ""
+
+msgctxt "themes_live_preview"
+msgid "Live preview"
+msgstr ""
+
+msgctxt "theme_current_theme"
+msgid "Current theme"
+msgstr ""
+
+msgctxt "theme_premium_theme"
+msgid "Premium theme"
+msgstr ""
+
+msgctxt "link_enter_url_text"
+msgid "Link text (optional)"
+msgstr ""
+
+msgctxt "create_a_link"
+msgid "Create a link"
+msgstr ""
+
+msgctxt "page_settings"
+msgid "Page settings"
+msgstr ""
+
+msgctxt "local_draft"
+msgid "Local draft"
+msgstr ""
+
+msgctxt "upload_failed"
+msgid "Upload failed"
+msgstr ""
+
+msgctxt "horizontal_alignment"
+msgid "Horizontal alignment"
+msgstr ""
+
+msgctxt "file_not_found"
+msgid "Couldn't find the media file for upload. Was it deleted or moved?"
+msgstr ""
+
+msgctxt "post_settings"
+msgid "Post settings"
+msgstr ""
+
+msgctxt "delete_post"
+msgid "Delete post"
+msgstr ""
+
+msgctxt "delete_page"
+msgid "Delete page"
+msgstr ""
+
+msgctxt "comment_status_approved"
+msgid "Approved"
+msgstr ""
+
+msgctxt "comment_status_unapproved"
+msgid "Pending"
+msgstr ""
+
+msgctxt "comment_status_spam"
+msgid "Spam"
+msgstr ""
+
+msgctxt "comment_status_trash"
+msgid "Trashed"
+msgstr ""
+
+msgctxt "edit_comment"
+msgid "Edit comment"
+msgstr ""
+
+msgctxt "mnu_comment_approve"
+msgid "Approve"
+msgstr ""
+
+msgctxt "mnu_comment_unapprove"
+msgid "Unapprove"
+msgstr ""
+
+msgctxt "mnu_comment_spam"
+msgid "Spam"
+msgstr ""
+
+msgctxt "mnu_comment_trash"
+msgid "Trash"
+msgstr ""
+
+msgctxt "dlg_approving_comments"
+msgid "Approving"
+msgstr ""
+
+msgctxt "dlg_unapproving_comments"
+msgid "Unapproving"
+msgstr ""
+
+msgctxt "dlg_spamming_comments"
+msgid "Marking as spam"
+msgstr ""
+
+msgctxt "dlg_trashing_comments"
+msgid "Sending to trash"
+msgstr ""
+
+msgctxt "dlg_confirm_trash_comments"
+msgid "Send to trash?"
+msgstr ""
+
+msgctxt "trash_yes"
+msgid "Trash"
+msgstr ""
+
+msgctxt "trash_no"
+msgid "Don't trash"
+msgstr ""
+
+msgctxt "trash"
+msgid "Trash"
+msgstr ""
+
+msgctxt "author_name"
+msgid "Author name"
+msgstr ""
+
+msgctxt "author_email"
+msgid "Author email"
+msgstr ""
+
+msgctxt "author_url"
+msgid "Author URL"
+msgstr ""
+
+msgctxt "hint_comment_content"
+msgid "Comment"
+msgstr ""
+
+msgctxt "saving_changes"
+msgid "Saving changes"
+msgstr ""
+
+msgctxt "sure_to_cancel_edit_comment"
+msgid "Cancel editing this comment?"
+msgstr ""
+
+msgctxt "content_required"
+msgid "Comment is required"
+msgstr ""
+
+msgctxt "toast_comment_unedited"
+msgid "Comment hasn't changed"
+msgstr ""
+
+msgctxt "remove_account"
+msgid "Remove blog"
+msgstr ""
+
+msgctxt "blog_removed_successfully"
+msgid "Blog removed successfully"
+msgstr ""
+
+msgctxt "delete_draft"
+msgid "Delete draft"
+msgstr ""
+
+msgctxt "preview_page"
+msgid "Preview page"
+msgstr ""
+
+msgctxt "page_deleted"
+msgid "Page deleted successfully"
+msgstr ""
+
+msgctxt "preview_post"
+msgid "Preview post"
+msgstr ""
+
+msgctxt "post_deleted"
+msgid "Post deleted successfully"
+msgstr ""
+
+msgctxt "comment_added"
+msgid "Comment added successfully"
+msgstr ""
+
+msgctxt "post_not_published"
+msgid "Post status isn't published"
+msgstr ""
+
+msgctxt "page_not_published"
+msgid "Page status isn't published"
+msgstr ""
+
+msgctxt "view_in_browser"
+msgid "View in browser"
+msgstr ""
+
+msgctxt "add_new_category"
+msgid "Add new category"
+msgstr ""
+
+msgctxt "category_name"
+msgid "Category name"
+msgstr ""
+
+msgctxt "category_slug"
+msgid "Category slug (optional)"
+msgstr ""
+
+msgctxt "category_desc"
+msgid "Category description (optional)"
+msgstr ""
+
+msgctxt "category_parent"
+msgid "Category parent (optional):"
+msgstr ""
+
+msgctxt "share_action_post"
+msgid "New post"
+msgstr ""
+
+msgctxt "share_action_media"
+msgid "Media library"
+msgstr ""
+
+msgctxt "file_error_create"
+msgid "Couldn't create temp file for media upload. Make sure there is enough free space on your device."
+msgstr ""
+
+msgctxt "location_not_found"
+msgid "Unknown location"
+msgstr ""
+
+msgctxt "open_source_licenses"
+msgid "Open source licenses"
+msgstr ""
+
+msgctxt "wpcom_blogs"
+msgid "WordPress.com blogs"
+msgstr ""
+
+msgctxt "self_hosted_blogs"
+msgid "Self-hosted blogs"
+msgstr ""
+
+msgctxt "stats_view_totals_followers_and_shares"
+msgid "Totals, followers, & shares"
+msgstr ""
+
+msgctxt "stats_view_tags_and_categories"
+msgid "Tags & categories"
+msgstr ""
+
+msgctxt "stats_visitors_and_views_header_best_ever"
+msgid "Best ever"
+msgstr ""
+
+msgctxt "stats_visitors_and_views_header_all_time"
+msgid "All time"
+msgstr ""
+
+msgctxt "pending_review"
+msgid "Pending review"
+msgstr ""
+
+msgctxt "http_credentials"
+msgid "HTTP credentials (optional)"
+msgstr ""
+
+msgctxt "http_authorization_required"
+msgid "Authorization required"
+msgstr ""
+
+msgctxt "post_format"
+msgid "Post format"
+msgstr ""
+
+msgctxt "new_post"
+msgid "New post"
+msgstr ""
+
+msgctxt "new_page"
+msgid "New page"
+msgstr ""
+
+msgctxt "new_media"
+msgid "New media"
+msgstr ""
+
+msgctxt "quick_photo"
+msgid "Quick photo"
+msgstr ""
+
+msgctxt "view_site"
+msgid "View site"
+msgstr ""
+
+msgctxt "view_admin"
+msgid "View admin"
+msgstr ""
+
+msgctxt "privacy_policy"
+msgid "Privacy policy"
+msgstr ""
+
+msgctxt "local_changes"
+msgid "Local changes"
+msgstr ""
+
+msgctxt "image_settings"
+msgid "Image settings"
+msgstr ""
+
+msgctxt "add_account_blog_url"
+msgid "Blog address"
+msgstr ""
+
+msgctxt "wordpress_blog"
+msgid "WordPress blog"
+msgstr ""
+
+msgctxt "error_blog_hidden"
+msgid "This blog is hidden and couldn't be loaded. Enable it again in settings and try again."
+msgstr ""
+
+msgctxt "fatal_db_error"
+msgid "An error occurred while creating the app database. Try reinstalling the app."
+msgstr ""
+
+msgctxt "jetpack_message_not_admin"
+msgid "The Jetpack plugin is required for stats. Contact the site administrator."
+msgstr ""
+
+msgctxt "jetpack_stats_unauthorized"
+msgid "Can't access stats"
+msgstr ""
+
+msgctxt "reader_title_applog"
+msgid "Application log"
+msgstr ""
+
+msgctxt "reader_share_link"
+msgid "Share link"
+msgstr ""
+
+msgctxt "reader_toast_err_reblog_requires_blog"
+msgid "Select a blog"
+msgstr ""
+
+msgctxt "reader_toast_err_add_tag"
+msgid "Unable to add this tag"
+msgstr ""
+
+msgctxt "reader_toast_err_remove_tag"
+msgid "Unable to remove this tag"
+msgstr ""
+
+msgctxt "required_field"
+msgid "Required field"
+msgstr ""
+
+msgctxt "email_hint"
+msgid "Email address"
+msgstr ""
+
+msgctxt "username_email"
+msgid "Username or email"
+msgstr ""
+
+msgctxt "site_address"
+msgid "Your self-hosted address (URL)"
+msgstr ""
+
+msgctxt "email_cant_be_used_to_signup"
+msgid "You can't use that email address to signup. We are having problems with them blocking some of our email. Use another email provider."
+msgstr ""
+
+msgctxt "email_reserved"
+msgid "That email address has already been used. Check your inbox for an activation email. If you don't activate you can try again in a few days."
+msgstr ""
+
+msgctxt "blog_name_must_include_letters"
+msgid "Site address must have at least 1 letter (a-z)"
+msgstr ""
+
+msgctxt "blog_name_invalid"
+msgid "Invalid site address"
+msgstr ""
+
+msgctxt "blog_title_invalid"
+msgid "Invalid site title"
+msgstr ""
+
+msgctxt "deleting_page"
+msgid "Deleting page"
+msgstr ""
+
+msgctxt "deleting_post"
+msgid "Deleting post"
+msgstr ""
+
+msgctxt "share_url_post"
+msgid "Share post"
+msgstr ""
+
+msgctxt "share_url_page"
+msgid "Share page"
+msgstr ""
+
+msgctxt "share_link"
+msgid "Share link"
+msgstr ""
+
+msgctxt "creating_your_account"
+msgid "Creating your account"
+msgstr ""
+
+msgctxt "creating_your_site"
+msgid "Creating your site"
+msgstr ""
+
+msgctxt "reader_empty_posts_in_tag_updating"
+msgid "Fetching posts…"
+msgstr ""
+
+msgctxt "error_refresh_media"
+msgid "Something went wrong while refreshing the media library. Try again later."
+msgstr ""
+
+msgctxt "reader_likes_you_and_multi"
+msgid "You and %,d others like this"
+msgstr ""
+
+msgctxt "reader_likes_multi"
+msgid "%,d people like this"
+msgstr ""
+
+msgctxt "reader_toast_err_get_comment"
+msgid "Unable to retrieve this comment"
+msgstr ""
+
+msgctxt "reader_label_reply"
+msgid "Reply"
+msgstr ""
+
+msgctxt "video"
+msgid "Video"
+msgstr ""
+
+msgctxt "download"
+msgid "Downloading media"
+msgstr ""
+
+msgctxt "comment_spammed"
+msgid "Comment marked as spam"
+msgstr ""
+
+msgctxt "cant_share_no_visible_blog"
+msgid "You can't share to WordPress without a visible blog"
+msgstr ""
+
+msgctxt "share_preference_title"
+msgid "Share to WordPress"
+msgstr ""
+
+msgctxt "reset_auto_share_preference"
+msgid "Reset auto-sharing settings"
+msgstr ""
+
+msgctxt "always_use_these_settings_to_share"
+msgid "Always use these settings"
+msgstr ""
+
+msgctxt "select_time"
+msgid "Select time"
+msgstr ""
+
+msgctxt "reader_likes_you_and_one"
+msgid "You and one other like this"
+msgstr ""
+
+msgctxt "reader_empty_followed_blogs_description"
+msgid "But don't worry, just tap the tag icon to start exploring!"
+msgstr ""
+
+msgctxt "select_date"
+msgid "Select date"
+msgstr ""
+
+msgctxt "pick_photo"
+msgid "Select photo"
+msgstr ""
+
+msgctxt "account_two_step_auth_enabled"
+msgid "This account has two step authentication enabled. Visit your security settings on WordPress.com and generate an application-specific password."
+msgstr ""
+
+msgctxt "add_self_hosted_blog"
+msgid "Add self-hosted blog"
+msgstr ""
+
+msgctxt "pick_video"
+msgid "Select video"
+msgstr ""
+
+msgctxt "reader_toast_err_get_post"
+msgid "Unable to retrieve this post"
+msgstr ""
+
+msgctxt "validating_user_data"
+msgid "Validating user data"
+msgstr ""
+
+msgctxt "validating_site_data"
+msgid "Validating site data"
+msgstr ""
+
+msgctxt "password_invalid"
+msgid "You need a more secure password. Make sure to use 7 or more characters, mix uppercase and lowercase letters, numbers or special characters."
+msgstr ""
+
+msgctxt "nux_tap_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "nux_welcome_create_account"
+msgid "Create account"
+msgstr ""
+
+msgctxt "signing_in"
+msgid "Signing in…"
+msgstr ""
+
+msgctxt "nux_add_selfhosted_blog"
+msgid "Add self-hosted site"
+msgstr ""
+
+msgctxt "nux_oops_not_selfhosted_blog"
+msgid "Sign in to WordPress.com"
+msgstr ""
+
+msgctxt "media_add_popup_title"
+msgid "Add to media library"
+msgstr ""
+
+msgctxt "media_add_new_media_gallery"
+msgid "Create gallery"
+msgstr ""
+
+msgctxt "empty_list_default"
+msgid "This list is empty"
+msgstr ""
+
+msgctxt "select_from_media_library"
+msgid "Select from media library"
+msgstr ""
+
+msgctxt "jetpack_message"
+msgid "The Jetpack plugin is required for stats. Do you want to install Jetpack?"
+msgstr ""
+
+msgctxt "jetpack_not_found"
+msgid "Jetpack plugin not found"
+msgstr ""
+
+msgctxt "reader_timespan_now"
+msgid "now"
+msgstr ""
+
+msgctxt "reader_untitled_post"
+msgid "(Untitled)"
+msgstr ""
+
+msgctxt "reader_share_subject"
+msgid "Shared from %s"
+msgstr ""
+
+msgctxt "reader_menu_tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "reader_btn_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "reader_btn_reblog"
+msgid "Reblog"
+msgstr ""
+
+msgctxt "reader_btn_follow"
+msgid "Follow"
+msgstr ""
+
+msgctxt "reader_btn_unfollow"
+msgid "Following"
+msgstr ""
+
+msgctxt "reader_hint_comment_on_post"
+msgid "Add your comment"
+msgstr ""
+
+msgctxt "reader_hint_comment_on_comment"
+msgid "Reply to comment"
+msgstr ""
+
+msgctxt "reader_label_added_tag"
+msgid "Added %s"
+msgstr ""
+
+msgctxt "reader_label_removed_tag"
+msgid "Removed %s"
+msgstr ""
+
+msgctxt "reader_likes_one"
+msgid "One person likes this"
+msgstr ""
+
+msgctxt "reader_likes_only_you"
+msgid "You like this"
+msgstr ""
+
+msgctxt "reader_toast_reblog_success"
+msgid "Post has been reblogged"
+msgstr ""
+
+msgctxt "reader_toast_err_comment_failed"
+msgid "Couldn't post your comment"
+msgstr ""
+
+msgctxt "reader_toast_err_reblog_failed"
+msgid "Couldn't reblog this post"
+msgstr ""
+
+msgctxt "reader_toast_err_already_reblogged"
+msgid "You already reblogged this post"
+msgstr ""
+
+msgctxt "reader_toast_err_tag_exists"
+msgid "You already follow this tag"
+msgstr ""
+
+msgctxt "reader_toast_err_tag_invalid"
+msgid "That isn't a valid tag"
+msgstr ""
+
+msgctxt "reader_toast_err_share_intent"
+msgid "Unable to share"
+msgstr ""
+
+msgctxt "reader_toast_err_view_image"
+msgid "Unable to view image"
+msgstr ""
+
+msgctxt "reader_toast_err_url_intent"
+msgid "Unable to open %s"
+msgstr ""
+
+msgctxt "reader_empty_followed_tags"
+msgid "You don't follow any tags"
+msgstr ""
+
+msgctxt "reader_empty_popular_tags"
+msgid "No popular tags"
+msgstr ""
+
+msgctxt "create_account_wpcom"
+msgid "Create an account on WordPress.com"
+msgstr ""
+
+msgctxt "connecting_wpcom"
+msgid "Connecting to WordPress.com"
+msgstr ""
+
+msgctxt "username_invalid"
+msgid "Invalid username"
+msgstr ""
+
+msgctxt "limit_reached"
+msgid "Limit reached. You can try again in 1 minute. Trying again before that will only increase the time you have to wait before the ban is lifted. If you think this is in error, contact support."
+msgstr ""
+
+msgctxt "nux_tutorial_get_started_title"
+msgid "Get started!"
+msgstr ""
+
+msgctxt "themes"
+msgid "Themes"
+msgstr ""
+
+msgctxt "all"
+msgid "All"
+msgstr ""
+
+msgctxt "images"
+msgid "Images"
+msgstr ""
+
+msgctxt "unattached"
+msgid "Unattached"
+msgstr ""
+
+#. one of the media page filter (others are all, images, unattached, custom
+#. date), after selecting Custom Date, you can choose a date range to filter
+#. media files
+msgctxt "custom_date"
+msgid "Custom Date"
+msgstr ""
+
+msgctxt "media_add_popup_capture_photo"
+msgid "Capture photo"
+msgstr ""
+
+msgctxt "media_add_popup_capture_video"
+msgid "Capture video"
+msgstr ""
+
+msgctxt "media_gallery_image_order_random"
+msgid "Random"
+msgstr ""
+
+msgctxt "media_gallery_image_order_reverse"
+msgid "Reverse"
+msgstr ""
+
+msgctxt "media_gallery_type"
+msgid "Type"
+msgstr ""
+
+msgctxt "media_gallery_type_squares"
+msgid "Squares"
+msgstr ""
+
+msgctxt "media_gallery_type_tiled"
+msgid "Tiled"
+msgstr ""
+
+msgctxt "media_gallery_type_circles"
+msgid "Circles"
+msgstr ""
+
+msgctxt "media_gallery_type_slideshow"
+msgid "Slideshow"
+msgstr ""
+
+msgctxt "media_no_video_title"
+msgid "VideoPress unavailable"
+msgstr ""
+
+msgctxt "media_no_video_message"
+msgid "Get the VideoPress upgrade to upload video!"
+msgstr ""
+
+msgctxt "media_edit_title_text"
+msgid "Title"
+msgstr ""
+
+msgctxt "media_edit_caption_text"
+msgid "Caption"
+msgstr ""
+
+msgctxt "media_edit_description_text"
+msgid "Description"
+msgstr ""
+
+msgctxt "media_edit_title_hint"
+msgid "Enter a title here"
+msgstr ""
+
+msgctxt "media_edit_caption_hint"
+msgid "Enter a caption here"
+msgstr ""
+
+msgctxt "media_edit_description_hint"
+msgid "Enter a description here"
+msgstr ""
+
+msgctxt "media_edit_success"
+msgid "Updated"
+msgstr ""
+
+msgctxt "media_edit_failure"
+msgid "Failed to update"
+msgstr ""
+
+msgctxt "themes_details_label"
+msgid "Details"
+msgstr ""
+
+msgctxt "themes_features_label"
+msgid "Features"
+msgstr ""
+
+msgctxt "theme_activate_button"
+msgid "Activate"
+msgstr ""
+
+msgctxt "theme_activating_button"
+msgid "Activating"
+msgstr ""
+
+msgctxt "theme_set_success"
+msgid "Successfully set theme!"
+msgstr ""
+
+msgctxt "theme_auth_error_title"
+msgid "Failed to fetch themes"
+msgstr ""
+
+msgctxt "post_excerpt"
+msgid "Excerpt"
+msgstr ""
+
+msgctxt "share_action_title"
+msgid "Add to …"
+msgstr ""
+
+msgctxt "share_action"
+msgid "Share"
+msgstr ""
+
+msgctxt "stats"
+msgid "Stats"
+msgstr ""
+
+msgctxt "view_stats_full_site"
+msgid "View full site"
+msgstr ""
+
+msgctxt "stats_view_visitors_and_views"
+msgid "Visitors and Views"
+msgstr ""
+
+msgctxt "stats_view_clicks"
+msgid "Clicks"
+msgstr ""
+
+msgctxt "stats_view_referrers"
+msgid "Referrers"
+msgstr ""
+
+msgctxt "stats_view_comments"
+msgid "Comments"
+msgstr ""
+
+msgctxt "stats_timeframe_today"
+msgid "Today"
+msgstr ""
+
+msgctxt "stats_timeframe_yesterday"
+msgid "Yesterday"
+msgstr ""
+
+msgctxt "stats_timeframe_days"
+msgid "Days"
+msgstr ""
+
+msgctxt "stats_timeframe_weeks"
+msgid "Weeks"
+msgstr ""
+
+msgctxt "stats_timeframe_months"
+msgid "Months"
+msgstr ""
+
+msgctxt "stats_summary"
+msgid "Summary"
+msgstr ""
+
+msgctxt "stats_entry_country"
+msgid "Country"
+msgstr ""
+
+msgctxt "stats_entry_posts_and_pages"
+msgid "Title"
+msgstr ""
+
+msgctxt "stats_entry_tags_and_categories"
+msgid "Topic"
+msgstr ""
+
+msgctxt "stats_entry_authors"
+msgid "Author"
+msgstr ""
+
+msgctxt "stats_entry_referrers"
+msgid "Referrer"
+msgstr ""
+
+msgctxt "stats_totals_views"
+msgid "Views"
+msgstr ""
+
+msgctxt "stats_totals_clicks"
+msgid "Clicks"
+msgstr ""
+
+msgctxt "stats_totals_plays"
+msgid "Plays"
+msgstr ""
+
+msgctxt "stats_totals_comments"
+msgid "Comments"
+msgstr ""
+
+msgctxt "stats_totals_visitors"
+msgid "Visitors"
+msgstr ""
+
+msgctxt "stats_visitors_and_views_header_today"
+msgid "Today"
+msgstr ""
+
+msgctxt "menu_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "passcode_manage"
+msgid "Manage PIN lock"
+msgstr ""
+
+msgctxt "passcode_enter_passcode"
+msgid "Enter your PIN"
+msgstr ""
+
+msgctxt "passcode_enter_old_passcode"
+msgid "Enter your old PIN"
+msgstr ""
+
+msgctxt "passcode_re_enter_passcode"
+msgid "Re-enter your PIN"
+msgstr ""
+
+msgctxt "passcode_change_passcode"
+msgid "Change PIN"
+msgstr ""
+
+msgctxt "passcode_set"
+msgid "PIN set"
+msgstr ""
+
+msgctxt "passcode_preference_title"
+msgid "PIN lock"
+msgstr ""
+
+msgctxt "passcode_turn_off"
+msgid "Turn PIN lock off"
+msgstr ""
+
+msgctxt "passcode_turn_on"
+msgid "Turn PIN lock on"
+msgstr ""
+
+msgctxt "post_formats_array[0]"
+msgid "Aside"
+msgstr ""
+
+msgctxt "post_formats_array[1]"
+msgid "Audio"
+msgstr ""
+
+msgctxt "post_formats_array[2]"
+msgid "Chat"
+msgstr ""
+
+msgctxt "post_formats_array[3]"
+msgid "Gallery"
+msgstr ""
+
+msgctxt "post_formats_array[4]"
+msgid "Image"
+msgstr ""
+
+msgctxt "post_formats_array[5]"
+msgid "Link"
+msgstr ""
+
+msgctxt "post_formats_array[6]"
+msgid "Quote"
+msgstr ""
+
+msgctxt "post_formats_array[7]"
+msgid "Standard"
+msgstr ""
+
+msgctxt "post_formats_array[8]"
+msgid "Status"
+msgstr ""
+
+msgctxt "post_formats_array[9]"
+msgid "Video"
+msgstr ""
+
+msgctxt "alignment_array[0]"
+msgid "None"
+msgstr ""
+
+msgctxt "alignment_array[1]"
+msgid "Left"
+msgstr ""
+
+msgctxt "alignment_array[2]"
+msgid "Center"
+msgstr ""
+
+msgctxt "alignment_array[3]"
+msgid "Right"
+msgstr ""
+
+msgctxt "upload"
+msgid "Upload"
+msgstr ""
+
+msgctxt "manage"
+msgid "Manage"
+msgstr ""
+
+msgctxt "sign_in"
+msgid "Sign in"
+msgstr ""
+
+msgctxt "sign_out"
+msgid "Sign out"
+msgstr ""
+
+msgctxt "notifications"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "manage_notifications"
+msgid "Manage notifications"
+msgstr ""
+
+msgctxt "enable_notifications"
+msgid "Enable notifications"
+msgstr ""
+
+msgctxt "types"
+msgid "Types"
+msgstr ""
+
+msgctxt "options"
+msgid "Options"
+msgstr ""
+
+msgctxt "notifications_turn_off"
+msgid "Turn off"
+msgstr ""
+
+msgctxt "notifications_turn_off_1hr"
+msgid "Turn off for 1 hour"
+msgstr ""
+
+msgctxt "notifications_turn_off_8hr"
+msgid "Turn off for 8 hours"
+msgstr ""
+
+msgctxt "note_reply_successful"
+msgid "Reply published"
+msgstr ""
+
+msgctxt "new_notifications"
+msgid "%d new notifications"
+msgstr ""
+
+msgctxt "more_notifications"
+msgid "and %d more."
+msgstr ""
+
+msgctxt "tooltip_follow"
+msgid "Follow or unfollow this blog"
+msgstr ""
+
+msgctxt "loading"
+msgid "Loading…"
+msgstr ""
+
+msgctxt "post_signature"
+msgid "Post signature"
+msgstr ""
+
+msgctxt "add_tagline"
+msgid "Add a signature to new posts"
+msgstr ""
+
+msgctxt "httpuser"
+msgid "HTTP username"
+msgstr ""
+
+msgctxt "httppassword"
+msgid "HTTP password"
+msgstr ""
+
+msgctxt "error_media_upload"
+msgid "An error occurred while uploading media"
+msgstr ""
+
+msgctxt "post_content"
+msgid "Content (tap to add text and media)"
+msgstr ""
+
+msgctxt "publish_date"
+msgid "Publish"
+msgstr ""
+
+msgctxt "content_description_add_media"
+msgid "Add media"
+msgstr ""
+
+msgctxt "incorrect_credentials"
+msgid "Incorrect username or password."
+msgstr ""
+
+msgctxt "password"
+msgid "Password"
+msgstr ""
+
+msgctxt "username"
+msgid "Username"
+msgstr ""
+
+msgctxt "reader"
+msgid "Reader"
+msgstr ""
+
+msgctxt "featured"
+msgid "Use as featured image"
+msgstr ""
+
+msgctxt "featured_in_post"
+msgid "Include image in post content"
+msgstr ""
+
+msgctxt "no_network_title"
+msgid "No network available"
+msgstr ""
+
+msgctxt "pages"
+msgid "Pages"
+msgstr ""
+
+msgctxt "caption"
+msgid "Caption (optional)"
+msgstr ""
+
+msgctxt "width"
+msgid "Width"
+msgstr ""
+
+msgctxt "posts"
+msgid "Posts"
+msgstr ""
+
+msgctxt "anonymous"
+msgid "Anonymous"
+msgstr ""
+
+msgctxt "page"
+msgid "Page"
+msgstr ""
+
+msgctxt "post"
+msgid "Post"
+msgstr ""
+
+msgctxt "blogusername"
+msgid "blogusername"
+msgstr ""
+
+msgctxt "ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "upload_scaled_image"
+msgid "Upload and link to scaled image"
+msgstr ""
+
+msgctxt "scaled_image"
+msgid "Scaled image width"
+msgstr ""
+
+msgctxt "remove_location"
+msgid "Remove"
+msgstr ""
+
+msgctxt "scheduled"
+msgid "Scheduled"
+msgstr ""
+
+msgctxt "link_enter_url"
+msgid "URL"
+msgstr ""
+
+msgctxt "posted_from"
+msgid "Posted from WordPress for Android"
+msgstr ""
+
+msgctxt "uploading"
+msgid "Uploading"
+msgstr ""
+
+msgctxt "version"
+msgid "Version"
+msgstr ""
+
+msgctxt "tos"
+msgid "Terms of Service"
+msgstr ""
+
+msgctxt "app_title"
+msgid "WordPress for Android"
+msgstr ""
+
+msgctxt "about"
+msgid "About"
+msgstr ""
+
+msgctxt "max_thumbnail_px_width"
+msgid "Default image width"
+msgstr ""
+
+msgctxt "image_alignment"
+msgid "Alignment"
+msgstr ""
+
+msgctxt "refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "untitled"
+msgid "Untitled"
+msgstr ""
+
+msgctxt "edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "post_id"
+msgid "Post"
+msgstr ""
+
+msgctxt "page_id"
+msgid "Page"
+msgstr ""
+
+msgctxt "post_password"
+msgid "Password (optional)"
+msgstr ""
+
+msgctxt "immediately"
+msgid "Immediately"
+msgstr ""
+
+msgctxt "quickpress_add_alert_title"
+msgid "Set shortcut name"
+msgstr ""
+
+msgctxt "settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "share_url"
+msgid "Share URL"
+msgstr ""
+
+msgctxt "quickpress_window_title"
+msgid "Select blog for QuickPress shortcut"
+msgstr ""
+
+msgctxt "quickpress_add_error"
+msgid "Shortcut name can't be empty"
+msgstr ""
+
+msgctxt "publish_post"
+msgid "Publish"
+msgstr ""
+
+msgctxt "draft"
+msgid "Draft"
+msgstr ""
+
+msgctxt "post_private"
+msgid "Private"
+msgstr ""
+
+msgctxt "upload_full_size_image"
+msgid "Upload and link to full image"
+msgstr ""
+
+msgctxt "title"
+msgid "Title"
+msgstr ""
+
+msgctxt "tags_separate_with_commas"
+msgid "Tags (separate tags with commas)"
+msgstr ""
+
+msgctxt "categories"
+msgid "Categories"
+msgstr ""
+
+msgctxt "tab_stats"
+msgid "Stats"
+msgstr ""
+
+msgctxt "notification_blink"
+msgid "Blink notification light"
+msgstr ""
+
+msgctxt "notification_sound"
+msgid "Play notification sound"
+msgstr ""
+
+msgctxt "notification_vibrate"
+msgid "Vibrate"
+msgstr ""
+
+msgctxt "status"
+msgid "Status"
+msgstr ""
+
+msgctxt "location"
+msgid "Location"
+msgstr ""
+
+msgctxt "sdcard_title"
+msgid "SD Card Required"
+msgstr ""
+
+msgctxt "select_video"
+msgid "Select a video from gallery"
+msgstr ""
+
+msgctxt "media"
+msgid "Media"
+msgstr ""
+
+msgctxt "delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "none"
+msgid "None"
+msgstr ""
+
+msgctxt "blogs"
+msgid "Blogs"
+msgstr ""
+
+msgctxt "select_photo"
+msgid "Select a photo from gallery"
+msgstr ""
+
+msgctxt "error"
+msgid "Error"
+msgstr ""
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "save"
+msgid "Save"
+msgstr ""
+
+msgctxt "add"
+msgid "Add"
+msgstr ""
+
+msgctxt "category_refresh_error"
+msgid "Category refresh error"
+msgstr ""
+
+msgctxt "tab_comments"
+msgid "Comments"
+msgstr ""
+
+msgctxt "preview"
+msgid "Preview"
+msgstr ""
+
+msgctxt "on"
+msgid "on"
+msgstr ""
+
+msgctxt "reply"
+msgid "Reply"
+msgstr ""
+
+msgctxt "yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "no"
+msgid "No"
+msgstr ""
