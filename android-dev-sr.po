@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-05-03 21:52+0100\n"
+"PO-Revision-Date: 2015-05-07 16:06+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 msgctxt "select_from_new_picker"
 msgid "Multi-select with the new picker"
-msgstr "Изаберите више опција помоћу новог изборника"
+msgstr "Изаберите више опција помоћу новог бирача"
 
 msgctxt "stats_generic_error"
 msgid "Required Stats couldn't be loaded"
-msgstr "Тражени подаци се не могу учитати"
+msgstr "Тражена статистика се не може учитати"
 
 msgctxt "no_device_videos"
 msgid "No videos"
@@ -44,7 +44,7 @@ msgstr "Није могуће добавити слике"
 
 msgctxt "error_loading_blog_videos"
 msgid "Unable to fetch videos"
-msgstr "Није могуће добавити слике"
+msgstr "Није могуће добавити видео снимке"
 
 msgctxt "error_loading_images"
 msgid "Error loading images"
@@ -52,7 +52,7 @@ msgstr "Грешка приликом учитавања слика"
 
 msgctxt "error_loading_videos"
 msgid "Error loading videos"
-msgstr "Грешка приликом учитавања видеа"
+msgstr "Грешка приликом учитавања видео снимака"
 
 msgctxt "loading_blog_images"
 msgid "Fetching images"
@@ -64,19 +64,19 @@ msgstr "Добављам видео снимке"
 
 msgctxt "no_media_sources"
 msgid "Couldn't fetch media"
-msgstr "Није могуће добавити датотеку садржаја"
+msgstr "Није могуће добавити медије"
 
 msgctxt "loading_videos"
 msgid "Loading videos"
-msgstr "Учитавам слике"
+msgstr "Учитавам видео снимке"
 
 msgctxt "loading_images"
 msgid "Loading images"
-msgstr "Учитавам видео снимке"
+msgstr "Учитавам слике"
 
 msgctxt "no_media"
 msgid "No media"
-msgstr "Не постоји датотека садржаја"
+msgstr "Не постоје медији"
 
 msgctxt "device"
 msgid "Device"
@@ -92,7 +92,7 @@ msgstr "Додајте у чланак"
 
 msgctxt "media_picker_title"
 msgid "Select media"
-msgstr "Изабери датотеку садржаја"
+msgstr "Изабери медије"
 
 msgctxt "take_photo"
 msgid "Take a photo"
@@ -140,19 +140,19 @@ msgstr "URL датотеке:"
 
 msgctxt "media_details_dimensions"
 msgid "Dimensions:"
-msgstr "Димензије:"
+msgstr "Величина:"
 
 msgctxt "delete_from_collection"
 msgid "Remove media"
-msgstr "Уклони датотеку садржаја"
+msgstr "Уклони медије"
 
 msgctxt "error_publish_no_network"
 msgid "Can't publish while there is no connection. Saved as draft."
-msgstr "Није могуће објавити услед недостатка интернет конекције. Сачувано као нацрт."
+msgstr "Није могуће објавити услед недостатка интернет везе. Сачувано као нацрт."
 
 msgctxt "editor_toast_gallery_pending_formatted"
 msgid "Gallery creation pending %d uploads"
-msgstr "Креирање галерије чека отпрему %d датотека"
+msgstr "Прављење галерије чека отпрему %d датотека"
 
 msgctxt "editor_toast_gallery_created_formatted"
 msgid "Gallery created with %d items"
@@ -164,7 +164,7 @@ msgstr "Неисправна путања до датотеке"
 
 msgctxt "verification_code"
 msgid "Verification code"
-msgstr "Верификациони код"
+msgstr "Код за потврђивање"
 
 msgctxt "invalid_verification_code"
 msgid "Invalid verification code"
@@ -176,7 +176,7 @@ msgstr "Провери"
 
 msgctxt "two_step_footer_label"
 msgid "Enter the code from your authenticator app."
-msgstr "Унесите код са Вашег програма за аутентикацију."
+msgstr "Унесите код са своје апликације за аутентикацију."
 
 msgctxt "two_step_footer_button"
 msgid "Send code via text message"
@@ -188,11 +188,11 @@ msgstr "Потражите верификациони код међу Вашим
 
 msgctxt "sign_in_jetpack"
 msgid "Sign in to your WordPress.com account to connect to Jetpack."
-msgstr "Пријавите се на свој Wordpress.com налог да бисте се повезали на Jetpack."
+msgstr "Пријавите се на свој WordPress.com налог да бисте се повезали на Jetpack."
 
 msgctxt "auth_required"
 msgid "Sign in again to continue."
-msgstr "Пријавите се поново како бисте наставили са радом."
+msgstr "Пријавите се поново како бисте наставили."
 
 msgctxt "reader_empty_posts_request_failed"
 msgid "Unable to retrieve posts"
@@ -256,7 +256,7 @@ msgstr "Добављам чланке..."
 
 msgctxt "media_fetching"
 msgid "Fetching media…"
-msgstr "Добављам датотеке садржаја..."
+msgstr "Добављам медије..."
 
 msgctxt "post_uploading"
 msgid "Uploading"
@@ -292,7 +292,7 @@ msgstr "Дневни просек"
 
 msgctxt "stats_recent_weeks"
 msgid "Recent Weeks"
-msgstr "Претходних недеља"
+msgstr "Претходних седмица"
 
 msgctxt "error_copy_to_clipboard"
 msgid "An error occurred while copying text to clipboard"
@@ -424,7 +424,7 @@ msgstr ""
 
 msgctxt "stats_empty_comments_desc"
 msgid "If you allow comments on your site, track your top commenters and discover what content sparks the liveliest conversations, based on the most recent 1,000 comments."
-msgstr "Ако сте дозволили коментаре на свом веб месту, пратите посетиоце који остављају највише коментара и сазнајте који садржај подстиче најактивније конверзације, базирано на последњих 1000 коментара."
+msgstr "Ако сте дозволили коментаре на свом веб месту, пратите посетиоце који остављају највише коментара и сазнајте који садржај подстиче најактивније разговоре, засновано на последњих 1000 коментара."
 
 msgctxt "stats_empty_tags_and_categories_desc"
 msgid "Get an overview of the most popular topics on your site, as reflected in your top posts from the past week."
@@ -436,7 +436,7 @@ msgstr "Нема термина претраге"
 
 msgctxt "stats_empty_top_authors_desc"
 msgid "Track the views on each contributor's posts, and zoom in to discover the most popular content by each author."
-msgstr "Пратите прегледе чланака сваког од гостујућих писаца и погледајте детаље како бисте сазнали који је најпопуларнији садржај сваког од аутора."
+msgstr "Пратите прегледе чланака сваког од гостујућих сарадника и погледајте детаље како бисте сазнали који је најпопуларнији садржај сваког од аутора."
 
 msgctxt "stats_empty_tags_and_categories"
 msgid "No tagged posts or pages viewed"
@@ -452,7 +452,7 @@ msgstr "Сазнајте више о видљивости Вашег веб ме
 
 msgctxt "stats_empty_clicks_title"
 msgid "No clicks recorded"
-msgstr "Нема забележених кликова"
+msgstr "Нема забележених притисака"
 
 msgctxt "stats_empty_referrers_title"
 msgid "No referrers recorded"
@@ -476,11 +476,11 @@ msgstr "Нема забележених држава"
 
 msgctxt "stats_empty_geoviews_desc"
 msgid "Explore the list to see which countries and regions generate the most traffic to your site."
-msgstr "Прегледајте листу како бисте сазнали из којих држава и региона долази највише посетилаца на Ваше веб место."
+msgstr "Прегледајте списак како бисте сазнали из којих држава и региона долази највише посетилаца на Ваше веб место."
 
 msgctxt "stats_entry_video_plays"
 msgid "Video"
-msgstr "Видео"
+msgstr "Видео снимак"
 
 msgctxt "stats_entry_top_commenter"
 msgid "Author"
@@ -597,7 +597,7 @@ msgstr "%d изабрано"
 #. Displaying media from 2014-01-13 to 2014-01-23
 msgctxt "media_gallery_date_range"
 msgid "Displaying media from %1$s to %2$s"
-msgstr "Приказ датотека садржаја од %1$s до %2$s"
+msgstr "Приказ медија од %1$s до %2$s"
 
 msgctxt "sure_to_remove_account"
 msgid "Remove this blog?"
@@ -637,7 +637,7 @@ msgstr "Направите блог на WordPress.com"
 
 msgctxt "new_blog_wpcom_created"
 msgid "WordPress.com blog created!"
-msgstr "Блог на WordPress.com направљен!"
+msgstr "Блог на WordPress.com је направљен!"
 
 msgctxt "reader_empty_comments"
 msgid "No comments yet"
@@ -785,7 +785,7 @@ msgstr "Не постоје странице. Зашто не бисте нап�
 
 msgctxt "media_empty_list_custom_date"
 msgid "No media in this time interval"
-msgstr "Не постоје датотеке садржаја у том временском периоду"
+msgstr "Не постоје медији у том временском периоду"
 
 msgctxt "posting_post"
 msgid "Posting \"%s\""
@@ -989,7 +989,7 @@ msgstr ""
 
 msgctxt "media_empty_list"
 msgid "No media"
-msgstr ""
+msgstr "Нема медија"
 
 msgctxt "need_help_signin_wpcom"
 msgid "Need help?"
