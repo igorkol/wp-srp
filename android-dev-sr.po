@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-05-07 16:06+0100\n"
+"PO-Revision-Date: 2015-05-07 16:56+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -436,7 +436,7 @@ msgstr "Нема термина претраге"
 
 msgctxt "stats_empty_top_authors_desc"
 msgid "Track the views on each contributor's posts, and zoom in to discover the most popular content by each author."
-msgstr "Пратите прегледе чланака сваког од гостујућих сарадника и погледајте детаље како бисте сазнали који је најпопуларнији садржај сваког од аутора."
+msgstr "Пратите прегледе чланака сваког од сарадника и погледајте детаље како бисте сазнали који је најпопуларнији садржај сваког од аутора."
 
 msgctxt "stats_empty_tags_and_categories"
 msgid "No tagged posts or pages viewed"
